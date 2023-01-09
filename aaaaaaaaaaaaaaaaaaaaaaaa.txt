@@ -4,14 +4,8 @@ release	6
 builtDate	December 19, 2022
 valid	6.1.R6 (64-bit) beta; 6.1.R6 (64-bit) Advanced; 6.1.R6 (64-bit) Advanced (Chinese Edition); 6.1.R6 (64-bit) Basic; 6.1.R2 (64-bit); 6.1.R2 (32-bit)
 status	off
-highlights	<ul style="list-style-type:none"><li><span style=\"background-color:#e6ffe6\"><b>Website</b>: <a href="https://citespace.podia.com">https://citespace.podia.com</a></span></li><li><span style=\"background-color:yellow\"><b>How to Use CiteSpace (eBook) + CiteSpace (Advanced): </b><a href="https://citespace.podia.com/ebook-how-to-use-citespace">Upgrade with Credit Cards</a>; <a href="https://buy.stripe.com/dR6144fbc1Cae1WbIK">Upgrade with WeChat Pay or Ali Pay</a></span></li><li><span style="color:red;"><b>Warning: The citespace.podia.com is the only authorized website of CiteSpace. Any other websites selling or reselling CiteSpace are unauthorized.</b></span></li></ul>
-#<img src="http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png" height="76" width="160">
-#url	https://www.dimensions.ai/2019/01/2018-dimensions-research-roundup/
-#url	https://www.mdpi.com/1660-4601/16/1/29/htm
-#url	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png
-#separate urls of images with # size around w=600
-#images	https://pbs.twimg.com/media/Dz8KoWjWsAEhtG9.jpg:large
-#images	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/infectious_disease_sva_overview_600.png
-#images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/1.jpg#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/3.jpg
-#images	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png
-#images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/scientometrics600.jpg
+#https://raw.githubusercontents.com/citespa/c/main/aaaaaaaaaaaaaaaaaaaaaaaa.txt
+#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/current.txt
+#https://6ia0yke0re.execute-api.us-east-1.amazonaws.com/items/
+#https://raw.githubusercontents.com/citespa/c/main/mailllllll/
+#{"Item":{"starting":"6/22/2021","machine1":"","machine2":"","expiration":"","email":"1@1.com","name":""}}
