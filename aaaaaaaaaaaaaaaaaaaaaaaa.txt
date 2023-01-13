@@ -3,7 +3,7 @@ minor	1
 release	6
 builtDate	December 19, 2022
 valid	6.1.R6 (64-bit) beta; 6.1.R6 (64-bit) Advanced; 6.1.R6 (64-bit) Advanced (Chinese Edition); 6.1.R6 (64-bit) Basic; 6.1.R2 (64-bit); 6.1.R2 (32-bit)
-status	off
+status	on
 #https://raw.githubusercontents.com/citespa/c/main/aaaaaaaaaaaaaaaaaaaaaaaa.txt
 #http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/current.txt
 #https://6ia0yke0re.execute-api.us-east-1.amazonaws.com/items/
