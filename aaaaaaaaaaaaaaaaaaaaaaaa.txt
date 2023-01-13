@@ -15,15 +15,3 @@ highlights	<ul style="list-style-type:none"><li><span style=\"background-color:#
 images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/1.jpg#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/3.jpg
 #images	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png
 #images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/scientometrics600.jpg
-
-#major	6
-#minor	1
-#release	6
-#builtDate	December 19, 2022
-#valid	6.1.R6 (64-bit) beta; 6.1.R6 (64-bit) Advanced; 6.1.R6 (64-bit) Advanced (Chinese Edition); 6.1.R6 (64-bit) Basic; 6.1.R2 (64-bit); 6.1.R2 (32-bit)
-#status	on
-#https://raw.githubusercontents.com/citespa/c/main/aaaaaaaaaaaaaaaaaaaaaaaa.txt
-#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/current.txt
-#https://6ia0yke0re.execute-api.us-east-1.amazonaws.com/items/
-#https://raw.githubusercontents.com/citespa/c/main/mailllllll/
-#{"Item":{"starting":"6/22/2021","machine1":"","machine2":"","expiration":"","email":"1@1.com","name":""}}
