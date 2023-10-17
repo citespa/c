@@ -11,7 +11,7 @@ highlights	<ul style="list-style-type:none"><li><span style="background-color:ye
 #url	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png
 #separate urls of images with # size around w=600
 #images	https://pbs.twimg.com/media/Dz8KoWjWsAEhtG9.jpg:large
-images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/001.png
+images	1.png
 #images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/scientometrics600.jpg
 #<li><span style="color:red;"><h2 style="color:red;">Happy Chinese New Year!</h2></span></li>
 #<li><span style="color:red;"><h2 style="color:red;"><a href="https://blog.sciencenet.cn/blog-496649-1262376.html>">CiteSpace 的分析原理</a></span></li>
