@@ -11,5 +11,11 @@ highlights	<ul style="list-style-type:none"><li><span style="background-color:ye
 #url	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/dsl_lbd.png
 #separate urls of images with # size around w=600
 #images	https://pbs.twimg.com/media/Dz8KoWjWsAEhtG9.jpg:large
-images 1
-1
+images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/001.png#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/002.png#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/003.png#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/004.png#http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/6.2.R5_500.png
+#images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/scientometrics600.jpg
+#<li><span style="color:red;"><h2 style="color:red;">Happy Chinese New Year!</h2></span></li>
+#<li><span style="color:red;"><h2 style="color:red;"><a href="https://blog.sciencenet.cn/blog-496649-1262376.html>">CiteSpace 鐨勫垎鏋愬師鐞�</a></span></li>
+# https://blog.sciencenet.cn/blog-496649-1262376.html
+# <li><a href="https://blog.sciencenet.cn/blog-496649-1262376.html"><span style="font-size:20px"><b>CiteSpace鐨勫垎鏋愬師鐞�</b></span</a></li>
+# ; 6.2.R1 (64-bit) Basic; 6.2.R1 (32-bit) Basic; 6.1.R6 (64-bit) Basic; 6.1.R2 (64-bit) Basic
+# http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/1.jpg#
