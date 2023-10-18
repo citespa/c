@@ -12,7 +12,7 @@ highlights	<ul style="list-style-type:none"><li><span style="background-color:ye
 #separate urls of images with # size around w=600
 #images	https://pbs.twimg.com/media/Dz8KoWjWsAEhtG9.jpg:large
 #images	http://cluster.ischool.drexel.edu/~cchen/citespace/gallery/infectious_disease_sva_overview_600.png
-images	https://raw.gitmirror.com/citespa/c/main/001.png#https://raw.gitmirror.com/citespa/c/main/002.png#https://raw.gitmirror.com/citespa/c/main/003.png#https://raw.gitmirror.com/citespa/c/main/004.png#https://raw.gitmirror.com/citespa/c/main/6.2.R5_500.png
+images	https://raw.gitmirror.com/citespa/c/main/001.jpg#https://raw.gitmirror.com/citespa/c/main/002.jpg#https://raw.gitmirror.com/citespa/c/main/003.jpg#https://raw.gitmirror.com/citespa/c/main/004.jpg#https://raw.gitmirror.com/citespa/c/main/6.2.R5_500.jpg
 #images	http://cluster.ischool.drexel.edu/~cchen/citespace/current/version/sample/scientometrics600.jpg
 #<li><span style="color:red;"><h2 style="color:red;">Happy Chinese New Year!</h2></span></li>
 #<li><span style="color:red;"><h2 style="color:red;"><a href="https://blog.sciencenet.cn/blog-496649-1262376.html>">CiteSpace 的分析原理</a></span></li>
